@@ -1,0 +1,14 @@
+# Idea Project Files
+*.iml
+*.ipr
+*.iws
+*.ids
+.idea
+*.iws~
+
+# Mac OS X Finder
+.DS_Store
+
+# log
+*.log
+
